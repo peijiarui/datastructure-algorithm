@@ -1,3 +1,5 @@
+package list.binary;
+
 /**
  * @author liar
  * @since 2025/11/28
